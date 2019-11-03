@@ -39,7 +39,6 @@ import com.codingblocks.fabnavigation.Helpers.FabHelper
 import com.codingblocks.fabnavigation.Helpers.FabNotificationHelper
 import com.codingblocks.fabnavigation.behaviours.FabNavigationBehaviour
 import com.codingblocks.fabnavigation.behaviours.FabNavigationButtonBehaviour
-import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
 import java.util.*
 import kotlin.collections.ArrayList
 import kotlin.math.max

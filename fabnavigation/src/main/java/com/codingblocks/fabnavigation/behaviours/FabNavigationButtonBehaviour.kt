@@ -4,7 +4,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.coordinatorlayout.widget.CoordinatorLayout
 import com.codingblocks.fabnavigation.FabNavigation
-import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
 import com.google.android.material.snackbar.Snackbar
 
 class FabNavigationButtonBehaviour(navigationBarHeight: Int) : CoordinatorLayout.Behavior<View>() {
