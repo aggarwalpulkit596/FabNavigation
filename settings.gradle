@@ -1,2 +1,2 @@
 include ':app', ':fabnavigation'
-rootProject.name='FabNavigation Sample'
+rootProject.name='FabNavigation'
